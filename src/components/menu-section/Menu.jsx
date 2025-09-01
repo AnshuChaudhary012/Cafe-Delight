@@ -11,9 +11,9 @@ function Menu() {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             
                 
-                <Item food="Coffee" img = "../src/assets/coffee.avif"  info="All types of Coffee" price = "₹99"/>
-                <Item food="Burger" img = "../src/assets/Burger.jpg" info="Best quality of Burgers" price = "₹149"/>
-                <Item food="Shakes"img = "../src/assets/shakes.avif"  info="We care about your health" price = "₹249"/>
+                <Item food="Coffee" img = "../../src/assets/coffee.avif"  info="All types of Coffee" price = "₹99"/>
+                <Item food="Burger" img = "../../assets/Burger.jpg" info="Best quality of Burgers" price = "₹149"/>
+                <Item food="Shakes"img = "../../src/assets/shakes.avif"  info="We care about your health" price = "₹249"/>
                 
             </div>
             
