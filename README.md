@@ -19,6 +19,6 @@ This project is beginner-friendly and easy to understand.
 
 ## 🌐 Live Demo
 
-[Visit My Portfolio](https://anshuchaudharycafedelightproject.netlify.app/)  
+[Visit this project](https://anshuchaudharycafedelightproject.netlify.app/)  
 
 ![Portfolio Screenshot](/src/assets/Cafe-Delight-Project.png)
